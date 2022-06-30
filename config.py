@@ -1,4 +1,4 @@
-# This was originally a repl i made so i changed alot. If you want to visit my repl: https://replit.com/@AreziumTotallyRealOne/VBot#main.py
+# This was originally a repl I made so I changed it alot. If you want to visit my repl: https://replit.com/@AreziumTotallyRealOne/VBot#main.py
 
 class config:
     global token; token = ""
