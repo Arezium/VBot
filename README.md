@@ -1,4 +1,4 @@
-Discord selfbot with over **50** commands.
+Discord selfbot and nitro sniper (~250-100ms delay) with over **50** commands.
 
 Here are all of the commands:
 
