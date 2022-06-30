@@ -2,6 +2,7 @@ Discord selfbot with over 50 commands.
 
 Here are all of the commands:
 
+```
 DM Commands:
   annoy         
   blockspam     
@@ -58,5 +59,6 @@ Utility Commands:
   info          
   msgedit       
   pfp
-  
+```
+
 Uses the default help command because I can't be bothered making my own.
