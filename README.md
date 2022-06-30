@@ -1,4 +1,4 @@
-Discord selfbot with over 50 commands.
+Discord selfbot with over **50** commands.
 
 Here are all of the commands:
 
