@@ -1,0 +1,1 @@
+If you want to run your bot 24/7, go in config.py, then edit run_server to be True. Next, make an account at [UptimeRobot](https://uptimerobot.com/), click Add New Monitor, select the monitor type as HTTP(s), and in friendly name and in URL put the link on the right side of the screen and click create new monitor. (Also click Create Monitor with no alert contact selected)

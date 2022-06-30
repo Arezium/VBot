@@ -1,0 +1,7 @@
+
+Username: "Vined"#1907
+User ID: 887081366003535925
+Created at: Sep 13 2021 (288 days ago)
+Avatar url: https://cdn.discordapp.com/avatars/887081366003535925/9682b5f359d7975a9a04581d81d36450.webp?size=1024
+Banner url: https://cdn.discordapp.com/banners/887081366003535925/a_d50a1671e29fc6b224539f744a9b8046?size=1024
+Is a bot: False
