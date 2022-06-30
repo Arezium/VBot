@@ -1,1 +1,62 @@
-If you want to run your bot 24/7, go in config.py, then edit run_server to be True. Next, make an account at [UptimeRobot](https://uptimerobot.com/), click Add New Monitor, select the monitor type as HTTP(s), and in friendly name and in URL put the link on the right side of the screen and click create new monitor. (Also click Create Monitor with no alert contact selected)
+Discord selfbot with over 50 commands.
+
+Here are all of the commands:
+
+DM Commands:
+  annoy         
+  blockspam     
+  pin           
+  unpin         
+Fun Commands:
+  copy          
+  firstmsg      
+  gen           
+  ip            
+  someone       
+  stealpfp      
+  tokengrab     
+Misc Commands:
+  clearconsole  
+  listening     
+  ping          
+  playing       
+  stopactivity  
+  streaming     
+  watching      
+Owner Commands:
+  eval          
+  load          
+  logout        
+  reload        
+  restart       
+  unload        
+Spam Commands:
+  banall        
+  channelcreate 
+  channeldelete 
+  nuke          
+  rolecreate    
+  roledelete    
+  spam          
+  spamall       
+  unbanall      
+Text Editing Commands:
+  decode        
+  encode        
+  invert        
+  lower         
+  reverse       
+  space         
+  upper         
+Utility Commands:
+  backup-f      
+  channelclear  
+  clear         
+  discrim       
+  geoip         
+  hypesquad     
+  info          
+  msgedit       
+  pfp
+  
+Uses the default help command because I can't be bothered making my own.
